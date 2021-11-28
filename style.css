@@ -143,7 +143,7 @@
 }
 .back{
     background: white;
-    height: 110vh;
+    height: 130vh;
     width: 100%;
     padding-bottom: 10%;
 }
@@ -597,7 +597,7 @@ height: 70vh;
     border-radius: 3px;
 }
 .boo{
-    width: 100%;
+    width: 80%;
    
     background: rgb(221, 221, 221);
     border-radius: 3px;
